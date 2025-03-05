@@ -92,8 +92,9 @@ A curated list of engineering blogs of startup and enterprise companies.
 | [Feedly](https://blog.feedly.com/)                                             | Feedly Blog.                                            |
 | [FiftyThree](http://making.fiftythree.com/)                                    | Making Fifty Three.                                     |
 | [Flickr](https://code.flickr.net/)                                             | Code.flickr.com.                                        |
+| [Flip.id](https://tech.flip.id/)                                               | Flip.id Tech Blog                                       |
 | [Flipboard](http://engineering.flipboard.com/)                                 | Flipboard Engineering.                                  |
-| [Flipkart](https://tech.flipkart.com/)                                    	 | Flipkart Engineering.                                   |
+| [Flipkart](https://tech.flipkart.com/)                                    	   | Flipkart Engineering.                                   |
 | [Fluidinfo](http://blogs.fluidinfo.com/)                                       | Fluidinfo Blog.                                         |
 | [FourSquare](https://engineering.foursquare.com/)                              | Foursquare Engineering Blog.                            |
 | [Freshworks Inc.](https://medium.com/freshworks-engineering-blog)              | The Freshworks Engineering Blog – Medium                |
@@ -108,7 +109,8 @@ A curated list of engineering blogs of startup and enterprise companies.
 | [Grouper](http://eng.joingrouper.com/)                                         | Grouper Engineering Team Blog.                          |
 | [Groupon](https://engineering.groupon.com/)                                    | Groupon Engineering Blog.                               |
 | [Gusto](http://engineering.gusto.com)                                          | Gusto Engineering Blog.                                 |
-| [Globo.com](https://blog.globo.com/)                                           | Globo.com Engineering Blog.                                 |
+| [Globo.com](https://blog.globo.com/)                                           | Globo.com Engineering Blog.                             |
+| [Harness.io](https://engineering.harness.io/)                                  | Harness.io Engineering Blog.                            |
 | [Harry's](http://engineering.harrys.com/)                                      | Harry's Engineering.                                    |
 | [Helpshift](https://medium.com/helpshift-engineering/)                         | Helpshift Engineering Blog.                             |
 | [Heroku](https://engineering.heroku.com/)                                      | Heroku Engineering Blog.                                |
